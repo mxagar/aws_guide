@@ -1,19 +1,11 @@
-# Amazon Web Services (AWS) Solutions Architect Guide
+# A Guide to Amazon Web Services (AWS): Fundamentals, Development, Data Science
 
-This repository contains my personal notes on the AWS platform.
+In this repository I collect my notes on the different services provided by Cloud Platform Amazon Web Services (AWS).
 
-Most notes are based on the contents provided by the Coursera/AWS specialization [AWS Cloud Solutions Architect Professional Certificate](https://www.coursera.org/professional-certificates/aws-cloud-solutions-architect). That Professional Certificae prepares for the [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/).
+I have structured the project in the following sections:
 
-The guide is structured in the following subfolders:
-
-- [`01_cloud_technical_essentials/`](./01_cloud_technical_essentials/): [AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials).
-- [`02_architecting_solutions/`](./02_architecting_solutions/): [Architecting Solutions on AWS](https://www.coursera.org/learn/architecting-solutions-on-aws).
-- [`03_intro_data_lakes/`](./03_intro_data_lakes/): [Introduction to Designing Data Lakes on AWS](https://www.coursera.org/learn/introduction-to-designing-data-lakes-in-aws).
-- [`04_exam_prep_solutions/`](./04_exam_prep_solutions/): [Exam Prep: AWS Certified Solutions Architect - Associate](https://www.coursera.org/learn/aws-certified-solutions-architect-associate)
-
-:construction:
-
-To be done...
+- [`01_cloud_practitioner/`](./01_cloud_practitioner/): Contents for the [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) exam. Created after following the Udemy tutorial/course by Stephane Maarek [Ultimate AWS Certified Cloud Practitioner](https://www.udemy.com/course/aws-certified-cloud-practitioner-new).
+- [`02_solutions_architect/`](./02_solutions_architect/): Contents for the [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/es/certification/certified-solutions-architect-associate/) exam.
 
 Mikel Sagardia, 2024.  
 No guarantees.
